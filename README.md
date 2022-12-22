@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Arpit Patel
 - 👀 I’m interested in Asp.NetCore,Angular,Typescript,c#.
 - 🌱 I’m currently learning Asp.NetCore,WebApi,Angular,Typescript,c#.
-- 💞️ I’m looking to collaborate on Asp.NetCore
+- 💞️ I’m looking to collaborate on Asp.NetCore.
 - 📫 How to reach me ...
 
 <!---
